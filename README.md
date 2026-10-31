@@ -1,5 +1,7 @@
 # printerscripts
 
+> **Parts:** the printers, boards, readers and other gear that go with this project are listed at [projects.die-hard.net/gear](https://projects.die-hard.net/gear) (Amazon affiliate links).
+
 A collection of handy little scripts for 3D printers, mostly Klipper/Moonraker ones.
 Each script is standalone Python 3 (standard library only) and dry-runs by default where it can delete things.
 
